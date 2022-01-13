@@ -1,0 +1,17 @@
+#pic{
+width: 100px;
+}
+.container-fluid{
+    background-color: #150F03;
+}
+a{
+    color: white;
+}
+.nav-item {
+    color: white;
+}
+main{
+    background-image: url("https://image.freepik.com/photos-gratuite/restaurant-interieur_1127-3394.jpg");
+    background-position: center;
+    background-size: cover;
+}
